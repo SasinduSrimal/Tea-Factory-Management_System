@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tea_Fac_Management", "Tea_Fac_Management\Tea_Fac_Management.csproj", "{CEB98D14-16EB-4355-8371-F97C2B973A4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB98D14-16EB-4355-8371-F97C2B973A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB98D14-16EB-4355-8371-F97C2B973A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB98D14-16EB-4355-8371-F97C2B973A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB98D14-16EB-4355-8371-F97C2B973A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2937439-8D40-472B-834D-B736BE88F643}
+	EndGlobalSection
+EndGlobal
